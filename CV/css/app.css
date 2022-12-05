@@ -1,0 +1,18 @@
+.cv-header{
+    text-align: center;
+    background-color: #ededed;
+    border-bottom: 2px solid orange;
+
+}
+
+.cv-main{
+    border-bottom: 2px solid orange;
+}
+
+.titolo-sezione{
+    color: orange;
+}
+
+.sottotitolo {
+    font-style: italic;
+}
